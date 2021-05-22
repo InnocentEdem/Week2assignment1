@@ -90,7 +90,7 @@ h2{
       background-color:#722f37 ;
   }
   button:hover{
-    box-shadow: inset 0px 0px 20px black;
+    box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.4);
   }
   h3,h4{
     font-family:'Courier New', Courier, monospace;
