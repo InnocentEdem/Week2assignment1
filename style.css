@@ -93,9 +93,13 @@ h2{
     box-shadow: inset 0px 0px 20px black;
   }
   h3,h4{
-    font-family:'Courier New', Courier, monospace;  
+    font-family:'Courier New', Courier, monospace;
+    margin:8px;  
   }
  
    footer{
        text-align: center;
    }
+div button a{
+    border: none;
+}
